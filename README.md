@@ -15,7 +15,7 @@
 </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=35&lines=AI+Infra+Engineer+%7C+Systems+for+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=35&lines=AI+Infra+Engineer+%7C+Systems+for+AI)](https://git.io/typing-svg)
 
 [![Megatron-LM](https://img.shields.io/badge/Contributor-NVIDIA_Megatron--LM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/Megatron-LM)
 [![vLLM](https://img.shields.io/badge/Contributor-vLLM-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vllm-project/vllm)
