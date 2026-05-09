@@ -18,10 +18,10 @@
 
 ---
 
-<img height="160" src="https://github-readme-stats-lovat-tau-43.vercel.app/api?username=1195343015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=1195343015&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-lovat-tau-43.vercel.app/api?username=1195343015&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=1195343015&theme=nord&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats-lovat-tau-43.vercel.app/api/top-langs/?username=1195343015&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lovat-tau-43.vercel.app/api/top-langs/?username=1195343015&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=1195343015&color=6C63FF&style=flat-square" />
 
