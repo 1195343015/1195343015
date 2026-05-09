@@ -2,13 +2,15 @@
 
 # Hi there, I'm Jiayi Yan 👋
 
-<img src="https://img.shields.io/badge/💼_Working_at-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/_Working_at-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Open+Source+Contributor+%7C+LLM+Serving+%26+Distributed+Training)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=AI+Infra+Engineer+%7C+Systems+for+AI)](https://git.io/typing-svg)
 
-[![Megatron-LM](https://img.shields.io/badge/NVIDIA-Megatron--LM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/Megatron-LM)
-[![vLLM](https://img.shields.io/badge/vLLM-vLLM-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vllm-project/vllm)
-[![SGLang](https://img.shields.io/badge/SGLang-SGLang-00B4D8?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sgl-project/sglang)
+**Proud contributor to**
+
+[![Megatron-LM](https://img.shields.io/badge/Contributor-NVIDIA_Megatron--LM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/Megatron-LM)
+[![vLLM](https://img.shields.io/badge/Contributor-vLLM-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/vllm-project/vllm)
+[![SGLang](https://img.shields.io/badge/Contributor-SGLang-00B4D8?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sgl-project/sglang)
 
 ---
 
