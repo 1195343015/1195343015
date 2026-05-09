@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jiayi Yan 👋
 
-<img src="https://img.shields.io/badge/Alibaba-Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/💼_Working_at-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Open+Source+Contributor+%7C+LLM+Serving+%26+Distributed+Training)](https://git.io/typing-svg)
 
