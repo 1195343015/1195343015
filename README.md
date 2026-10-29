@@ -1,20 +1,5 @@
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-# Hi there, I'm Jiayi Yan 👋
-
-</td>
-<td>
-
-<img src="https://img.shields.io/badge/_Working_at-Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=35&lines=AI+Infra+Engineer+%7C+Systems+for+AI)](https://git.io/typing-svg)
 
 [![Megatron-LM](https://img.shields.io/badge/Contributor-NVIDIA_Megatron--LM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/Megatron-LM)
